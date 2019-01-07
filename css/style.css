@@ -70,6 +70,12 @@ figcaption {
 #details a:active {
   color: red;
 }
+/* ////// MEDIA ////// */
+
+img, video, audio {
+  
+}
+
 
 /* ////// LAYOUT ////// */
 
